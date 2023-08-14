@@ -1,0 +1,8270 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.86,39.36 ]
+    },
+    "properties": {
+    "Name":"Shufu - I",
+    "id_sub":"B",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.35,37.92 ]
+    },
+    "properties": {
+    "Name":"Yecheng - I",
+    "id_sub":"A",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,39.43 ]
+    },
+    "properties": {
+    "Name":"Kashgar - I",
+    "id_sub":"",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.85,37.25 ]
+    },
+    "properties": {
+    "Name":"Hotan County - I",
+    "id_sub":"A",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.05,39.36 ]
+    },
+    "properties": {
+    "Name":"Shule - I",
+    "id_sub":"B",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.97,37.11 ]
+    },
+    "properties": {
+    "Name":"Hotan City - VI",
+    "id_sub":"",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.64,37.11 ]
+    },
+    "properties": {
+    "Name":"Karakax - I",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.71,38.84 ]
+    },
+    "properties": {
+    "Name":"Makit - I",
+    "id_sub":"B",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.71,39.54 ]
+    },
+    "properties": {
+    "Name":"Jiashi - I",
+    "id_sub":"A",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.11,38.09 ]
+    },
+    "properties": {
+    "Name":"Zepu - I",
+    "id_sub":"",
+    "Town":"Zepu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.07,39.38 ]
+    },
+    "properties": {
+    "Name":"Shule - II",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.08,39.38 ]
+    },
+    "properties": {
+    "Name":"Shule - III",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.55,39.83 ]
+    },
+    "properties": {
+    "Name":"Bachu - I",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.04,39.46 ]
+    },
+    "properties": {
+    "Name":"Kashgar - IV",
+    "id_sub":"",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.98,39.46 ]
+    },
+    "properties": {
+    "Name":"Kashgar - V",
+    "id_sub":"",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.97,39.47 ]
+    },
+    "properties": {
+    "Name":"Kashgar - VI",
+    "id_sub":"",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.44,37.85 ]
+    },
+    "properties": {
+    "Name":"Yecheng - II",
+    "id_sub":"",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.72,37.25 ]
+    },
+    "properties": {
+    "Name":"Karakax - IV",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.95,39.15 ]
+    },
+    "properties": {
+    "Name":"Akto - VII",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.5,43.97 ]
+    },
+    "properties": {
+    "Name":"Yining County - VII",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.28,41.71 ]
+    },
+    "properties": {
+    "Name":"Korla - I",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.69,39.33 ]
+    },
+    "properties": {
+    "Name":"Shufu - II",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76,39.26 ]
+    },
+    "properties": {
+    "Name":"Akto - I",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.74,39.44 ]
+    },
+    "properties": {
+    "Name":"Jiashi - IV",
+    "id_sub":"",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.29,43.38 ]
+    },
+    "properties": {
+    "Name":"Dabancheng - I",
+    "id_sub":"A",
+    "Town":"Dabancheng",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.87,37.16 ]
+    },
+    "properties": {
+    "Name":"Hotan City - I",
+    "id_sub":"A",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.43,42.81 ]
+    },
+    "properties": {
+    "Name":"Yizhou - VI",
+    "id_sub":"",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.87,44.03 ]
+    },
+    "properties": {
+    "Name":"Huocheng - I",
+    "id_sub":"",
+    "Town":"Huocheng",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.16,41.12 ]
+    },
+    "properties": {
+    "Name":"Aksu - IV",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.17,41.12 ]
+    },
+    "properties": {
+    "Name":"Aksu - I",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.01,41.73 ]
+    },
+    "properties": {
+    "Name":"Kuqa - II",
+    "id_sub":"",
+    "Town":"Kuqa",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.22,42.96 ]
+    },
+    "properties": {
+    "Name":"Gaochang - I",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.11,39.45 ]
+    },
+    "properties": {
+    "Name":"Kashgar - II",
+    "id_sub":"A",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.12,38.37 ]
+    },
+    "properties": {
+    "Name":"Shache - I",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.24,41.34 ]
+    },
+    "properties": {
+    "Name":"Wensu - I",
+    "id_sub":"A",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.25,41.27 ]
+    },
+    "properties": {
+    "Name":"Wensu - VI",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.13,39.41 ]
+    },
+    "properties": {
+    "Name":"Shule - IV",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.52,39.82 ]
+    },
+    "properties": {
+    "Name":"Bachu - II",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99,39.64 ]
+    },
+    "properties": {
+    "Name":"Artux - I",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76,39.64 ]
+    },
+    "properties": {
+    "Name":"Artux - II",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.47,38.46 ]
+    },
+    "properties": {
+    "Name":"Shache - II",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.3,38.68 ]
+    },
+    "properties": {
+    "Name":"Shache - XII",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.31,38.35 ]
+    },
+    "properties": {
+    "Name":"Shache - III",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21,38.32 ]
+    },
+    "properties": {
+    "Name":"Shache - IV",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.23,38.36 ]
+    },
+    "properties": {
+    "Name":"Shache - V",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.14,38.41 ]
+    },
+    "properties": {
+    "Name":"Shache - VI",
+    "id_sub":"A",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.12,38.36 ]
+    },
+    "properties": {
+    "Name":"Shache - VII",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.09,39.41 ]
+    },
+    "properties": {
+    "Name":"Shule - V",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.67,44.42 ]
+    },
+    "properties": {
+    "Name":"Usu - I",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.18,37.1 ]
+    },
+    "properties": {
+    "Name":"Lop - I",
+    "id_sub":"A",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.73,37.23 ]
+    },
+    "properties": {
+    "Name":"Karakax - VII",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.14,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining City - I",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.53,44 ]
+    },
+    "properties": {
+    "Name":"Yining County - I",
+    "id_sub":"A",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.16,43.84 ]
+    },
+    "properties": {
+    "Name":"Qapqal - V",
+    "id_sub":"",
+    "Town":"Qapqal",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.87,44.2 ]
+    },
+    "properties": {
+    "Name":"Fukang - I",
+    "id_sub":"",
+    "Town":"Fukang",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56,39.81 ]
+    },
+    "properties": {
+    "Name":"Bachu - III",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.81,36.98 ]
+    },
+    "properties": {
+    "Name":"Qira - I",
+    "id_sub":"",
+    "Town":"Qira",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.81,36.96 ]
+    },
+    "properties": {
+    "Name":"Qira - II",
+    "id_sub":"A",
+    "Town":"Qira",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.97,37.13 ]
+    },
+    "properties": {
+    "Name":"Hotan City - II",
+    "id_sub":"A",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.85,44.06 ]
+    },
+    "properties": {
+    "Name":"Huocheng - II",
+    "id_sub":"",
+    "Town":"Huocheng",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.57,38.1 ]
+    },
+    "properties": {
+    "Name":"Qiemo - I",
+    "id_sub":"",
+    "Town":"Qiemo",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.83,36.8 ]
+    },
+    "properties": {
+    "Name":"Yutian - I",
+    "id_sub":"",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.76,36.84 ]
+    },
+    "properties": {
+    "Name":"Yutian - II",
+    "id_sub":"B",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,38.94 ]
+    },
+    "properties": {
+    "Name":"Yengisar - I",
+    "id_sub":"B",
+    "Town":"Yengisar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.16,38.96 ]
+    },
+    "properties": {
+    "Name":"Yengisar - II",
+    "id_sub":"",
+    "Town":"Yengisar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.71,39.49 ]
+    },
+    "properties": {
+    "Name":"Jiashi - II",
+    "id_sub":"",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.86,39.37 ]
+    },
+    "properties": {
+    "Name":"Shufu - III",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.96,39.4 ]
+    },
+    "properties": {
+    "Name":"Shufu - VI",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.86,39.37 ]
+    },
+    "properties": {
+    "Name":"Shufu - VII",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.85,39.37 ]
+    },
+    "properties": {
+    "Name":"Shufu - VIII",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.02,39.39 ]
+    },
+    "properties": {
+    "Name":"Shule - VI",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.24,39.4 ]
+    },
+    "properties": {
+    "Name":"Shule - VIII",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.13,39.88 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - I",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.13,39.92 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - II",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.08,39.8 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - III",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.15,39.74 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.19,39.73 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.95,39.77 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.92,39.75 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.86,39.63 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.03,39.64 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.66,39.88 ]
+    },
+    "properties": {
+    "Name":"Bachu - IV",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.4,41.09 ]
+    },
+    "properties": {
+    "Name":"Wensu - II",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.4,41.08 ]
+    },
+    "properties": {
+    "Name":"Wensu - III",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.02,39.91 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - IV",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.03,39.9 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.02,39.85 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - V",
+    "id_sub":"A",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.02,39.85 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - V",
+    "id_sub":"B",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"prison - high security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.28,41.71 ]
+    },
+    "properties": {
+    "Name":"Korla - II",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.29,41.71 ]
+    },
+    "properties": {
+    "Name":"Korla - III",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.28,41.72 ]
+    },
+    "properties": {
+    "Name":"Korla - IV",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.29,41.72 ]
+    },
+    "properties": {
+    "Name":"Korla - V",
+    "id_sub":"A",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99,39.73 ]
+    },
+    "properties": {
+    "Name":"Artux - III",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.08,39.68 ]
+    },
+    "properties": {
+    "Name":"Artux - IV",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.09,39.67 ]
+    },
+    "properties": {
+    "Name":"Artux - V",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,39.43 ]
+    },
+    "properties": {
+    "Name":"Kashgar - VII",
+    "id_sub":"A",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,39.43 ]
+    },
+    "properties": {
+    "Name":"Kashgar - VII",
+    "id_sub":"B",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.01,39.25 ]
+    },
+    "properties": {
+    "Name":"Akto - IV",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.94,39.14 ]
+    },
+    "properties": {
+    "Name":"Akto - II",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.92,39.12 ]
+    },
+    "properties": {
+    "Name":"Akto - III",
+    "id_sub":"A",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.55,39.78 ]
+    },
+    "properties": {
+    "Name":"Bachu - IX",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.43,38.97 ]
+    },
+    "properties": {
+    "Name":"Shache - VIII",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.45,38.99 ]
+    },
+    "properties": {
+    "Name":"Shache - IX",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15,38.41 ]
+    },
+    "properties": {
+    "Name":"Shache - VI",
+    "id_sub":"B",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15,38.41 ]
+    },
+    "properties": {
+    "Name":"Shache - VI",
+    "id_sub":"C",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1,38.24 ]
+    },
+    "properties": {
+    "Name":"Shache - X",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.3,43.81 ]
+    },
+    "properties": {
+    "Name":"Toutunhe - I",
+    "id_sub":"",
+    "Town":"Toutunhe",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.44,43.75 ]
+    },
+    "properties": {
+    "Name":"Saybagh - I",
+    "id_sub":"",
+    "Town":"Saybagh",
+    "Prefecture":"šr�mqi",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.78,43.96 ]
+    },
+    "properties": {
+    "Name":"Midong - I",
+    "id_sub":"",
+    "Town":"Midong",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.22,38.08 ]
+    },
+    "properties": {
+    "Name":"Zepu - II",
+    "id_sub":"A",
+    "Town":"Zepu",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.45,37.85 ]
+    },
+    "properties": {
+    "Name":"Yecheng - IV",
+    "id_sub":"",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.44,37.85 ]
+    },
+    "properties": {
+    "Name":"Yecheng - III",
+    "id_sub":"",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.45,37.84 ]
+    },
+    "properties": {
+    "Name":"Yecheng - VI",
+    "id_sub":"",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.35,37.91 ]
+    },
+    "properties": {
+    "Name":"Yecheng - I",
+    "id_sub":"B",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.8,37.02 ]
+    },
+    "properties": {
+    "Name":"Hotan County - II",
+    "id_sub":"",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.84,43.16 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.25,40.5 ]
+    },
+    "properties": {
+    "Name":"Aral - I",
+    "id_sub":"",
+    "Town":"Aral",
+    "Prefecture":"XPCC",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.8,45.53 ]
+    },
+    "properties": {
+    "Name":"Karamay - I",
+    "id_sub":"",
+    "Town":"Karamay",
+    "Prefecture":"Karamay",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.8,45.53 ]
+    },
+    "properties": {
+    "Name":"Karamay - II",
+    "id_sub":"",
+    "Town":"Karamay",
+    "Prefecture":"Karamay",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.05,47.74 ]
+    },
+    "properties": {
+    "Name":"Altay - I",
+    "id_sub":"A",
+    "Town":"Altay",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.85,39.22 ]
+    },
+    "properties": {
+    "Name":"Yopurga - I",
+    "id_sub":"",
+    "Town":"Yopurga",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.85,39.22 ]
+    },
+    "properties": {
+    "Name":"Yopurga - II",
+    "id_sub":"",
+    "Town":"Yopurga",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.77,39.22 ]
+    },
+    "properties": {
+    "Name":"Yopurga - III",
+    "id_sub":"",
+    "Town":"Yopurga",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.43,40.65 ]
+    },
+    "properties": {
+    "Name":"Awat - I",
+    "id_sub":"",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.27,41.19 ]
+    },
+    "properties": {
+    "Name":"Aksu - II",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.27,41.18 ]
+    },
+    "properties": {
+    "Name":"Wushi - I",
+    "id_sub":"",
+    "Town":"Wushi",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.96,43.6 ]
+    },
+    "properties": {
+    "Name":"Barkol - III",
+    "id_sub":"A",
+    "Town":"Barkol",
+    "Prefecture":"Hami",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.32,41.37 ]
+    },
+    "properties": {
+    "Name":"Yuli - I",
+    "id_sub":"",
+    "Town":"Yuli",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.86,37.24 ]
+    },
+    "properties": {
+    "Name":"Hotan County - III",
+    "id_sub":"",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.85,37.24 ]
+    },
+    "properties": {
+    "Name":"Hotan County - IV",
+    "id_sub":"",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.32,37.23 ]
+    },
+    "properties": {
+    "Name":"Kunyu - I",
+    "id_sub":"",
+    "Town":"Kunyu",
+    "Prefecture":"XPCC",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.29,37.55 ]
+    },
+    "properties": {
+    "Name":"Pishan - IV",
+    "id_sub":"",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.69,37.02 ]
+    },
+    "properties": {
+    "Name":"Minfeng - I",
+    "id_sub":"",
+    "Town":"Minfeng",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.42,39.99 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.48,39.95 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.51,39.95 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.34,39.98 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.35,39.99 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.33,39.99 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.38,39.93 ]
+    },
+    "properties": {
+    "Name":"Tumxuk - VI",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.42,39.95 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.47,40.07 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tumxuk",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7,39.47 ]
+    },
+    "properties": {
+    "Name":"Shufu - IV",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.71,39.46 ]
+    },
+    "properties": {
+    "Name":"Shufu - V",
+    "id_sub":"",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.14,39.7 ]
+    },
+    "properties": {
+    "Name":"Artux - IX",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.02,41.75 ]
+    },
+    "properties": {
+    "Name":"Kuqa - I",
+    "id_sub":"",
+    "Town":"Kuqa",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.86,47.71 ]
+    },
+    "properties": {
+    "Name":"Burqin - II",
+    "id_sub":"",
+    "Town":"Burqin",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.92,44.55 ]
+    },
+    "properties": {
+    "Name":"Jinghe - I",
+    "id_sub":"A",
+    "Town":"Jinghe",
+    "Prefecture":"Bortala",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.97,44.45 ]
+    },
+    "properties": {
+    "Name":"Huyanghe - I",
+    "id_sub":"",
+    "Town":"Huyanghe City",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.77,44.37 ]
+    },
+    "properties": {
+    "Name":"Usu - II",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.07,46.8 ]
+    },
+    "properties": {
+    "Name":"Tacheng - I",
+    "id_sub":"A",
+    "Town":"Tacheng",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.13,42.88 ]
+    },
+    "properties": {
+    "Name":"Shanshan - VI",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.97,44.89 ]
+    },
+    "properties": {
+    "Name":"Bole - I",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.2,41.21 ]
+    },
+    "properties": {
+    "Name":"Wushi - II",
+    "id_sub":"B",
+    "Town":"Wushi",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.04,39.69 ]
+    },
+    "properties": {
+    "Name":"Bachu - VI",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.07,39.72 ]
+    },
+    "properties": {
+    "Name":"Bachu - VII",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.01,39.74 ]
+    },
+    "properties": {
+    "Name":"Bachu - VIII",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.26,37.04 ]
+    },
+    "properties": {
+    "Name":"Lop - IV",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22,37.06 ]
+    },
+    "properties": {
+    "Name":"Lop - III",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.9 ]
+    },
+    "properties": {
+    "Name":"Xinshi - I",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.89 ]
+    },
+    "properties": {
+    "Name":"Xinshi - VII",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.82,44.33 ]
+    },
+    "properties": {
+    "Name":"Dushanzi - I",
+    "id_sub":"A",
+    "Town":"Dushanzi",
+    "Prefecture":"Karamay",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.07,44.41 ]
+    },
+    "properties": {
+    "Name":"Kuytun - I",
+    "id_sub":"A",
+    "Town":"Kuytun",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.63,44.35 ]
+    },
+    "properties": {
+    "Name":"Shawan - I",
+    "id_sub":"A",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.16,44.33 ]
+    },
+    "properties": {
+    "Name":"Manas - I",
+    "id_sub":"",
+    "Town":"Manas",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87,44.1 ]
+    },
+    "properties": {
+    "Name":"Changji - I",
+    "id_sub":"A",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.89,44.21 ]
+    },
+    "properties": {
+    "Name":"Hutubi - I",
+    "id_sub":"A",
+    "Town":"Hutubi",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.97,44.24 ]
+    },
+    "properties": {
+    "Name":"Shihezi - I",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"Shihezi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.02,40.53 ]
+    },
+    "properties": {
+    "Name":"Kalpin - I",
+    "id_sub":"",
+    "Town":"Kalpin",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.83,41.23 ]
+    },
+    "properties": {
+    "Name":"Xayar - I",
+    "id_sub":"A",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.82,41.77 ]
+    },
+    "properties": {
+    "Name":"Baicheng - I",
+    "id_sub":"A",
+    "Town":"Baicheng",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.3,41.81 ]
+    },
+    "properties": {
+    "Name":"Luntai - I",
+    "id_sub":"A",
+    "Town":"Luntai",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.59,41.89 ]
+    },
+    "properties": {
+    "Name":"Tiemenguan - I",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.23,42.95 ]
+    },
+    "properties": {
+    "Name":"Gaochang - II",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.39,42.97 ]
+    },
+    "properties": {
+    "Name":"Shanshan - I",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.03,44.96 ]
+    },
+    "properties": {
+    "Name":"Wenquan - I",
+    "id_sub":"",
+    "Town":"Wenquan",
+    "Prefecture":"Bortala",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.15,45.7 ]
+    },
+    "properties": {
+    "Name":"Baijiantan - I",
+    "id_sub":"",
+    "Town":"Baijiantan",
+    "Prefecture":"Karamay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.5,47 ]
+    },
+    "properties": {
+    "Name":"Fuyun - I",
+    "id_sub":"A",
+    "Town":"Fuyun",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.87,47.69 ]
+    },
+    "properties": {
+    "Name":"Burqin - I",
+    "id_sub":"",
+    "Town":"Burqin",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.4,48.08 ]
+    },
+    "properties": {
+    "Name":"Habahe - I",
+    "id_sub":"",
+    "Town":"Habahe",
+    "Prefecture":"Altay",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.74,43.45 ]
+    },
+    "properties": {
+    "Name":"Xinyuan - I",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.75,43.44 ]
+    },
+    "properties": {
+    "Name":"Xinyuan - II",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.24,43.44 ]
+    },
+    "properties": {
+    "Name":"Xinyuan - III",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.27,43.46 ]
+    },
+    "properties": {
+    "Name":"Xinyuan - IV",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.52,43.82 ]
+    },
+    "properties": {
+    "Name":"Nilka - I",
+    "id_sub":"A",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.44,44.31 ]
+    },
+    "properties": {
+    "Name":"Changji - II",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.43,44.32 ]
+    },
+    "properties": {
+    "Name":"Changji - III",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.1,43.6 ]
+    },
+    "properties": {
+    "Name":"Barkol - I",
+    "id_sub":"",
+    "Town":"Barkol",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.8,42.78 ]
+    },
+    "properties": {
+    "Name":"Yizhou - VII",
+    "id_sub":"",
+    "Town":"YIzhou",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.52,42.86 ]
+    },
+    "properties": {
+    "Name":"Yizhou - I",
+    "id_sub":"A",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.17,42.98 ]
+    },
+    "properties": {
+    "Name":"Gaochang - III",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.31,42.31 ]
+    },
+    "properties": {
+    "Name":"Hejing - I",
+    "id_sub":"A",
+    "Town":"Hejing",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.41,41.94 ]
+    },
+    "properties": {
+    "Name":"Yanqi - I",
+    "id_sub":"",
+    "Town":"Yanqi",
+    "Prefecture":"Bayingolin",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.18,38.99 ]
+    },
+    "properties": {
+    "Name":"Ruoqiang - I",
+    "id_sub":"",
+    "Town":"Ruoqiang",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.84,36.97 ]
+    },
+    "properties": {
+    "Name":"Qira - IV",
+    "id_sub":"",
+    "Town":"Qira",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.62,37 ]
+    },
+    "properties": {
+    "Name":"Yutian - IV",
+    "id_sub":"",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.3,37.22 ]
+    },
+    "properties": {
+    "Name":"Kunyu - II",
+    "id_sub":"",
+    "Town":"Kunyu",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.18 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - I",
+    "id_sub":"A",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.21,43.52 ]
+    },
+    "properties": {
+    "Name":"Gongliu - I",
+    "id_sub":"A",
+    "Town":"Gongliu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.82,43.2 ]
+    },
+    "properties": {
+    "Name":"Tekes - I",
+    "id_sub":"A",
+    "Town":"Tekes",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.39,43.9 ]
+    },
+    "properties": {
+    "Name":"Yining City - II",
+    "id_sub":"A",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.34,43.94 ]
+    },
+    "properties": {
+    "Name":"Yining City - III",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.7,42.81 ]
+    },
+    "properties": {
+    "Name":"Toksun - I",
+    "id_sub":"",
+    "Town":"Toksun",
+    "Prefecture":"Turpan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.86,43.15 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Gaocheng",
+    "Prefecture":"Turpan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.03,46.16 ]
+    },
+    "properties": {
+    "Name":"Yumin - I",
+    "id_sub":"",
+    "Town":"Yumin",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.55,47.1 ]
+    },
+    "properties": {
+    "Name":"Fuhai - I",
+    "id_sub":"",
+    "Town":"Fuhai",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.77,44.62 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Hutubi",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.55,47.11 ]
+    },
+    "properties": {
+    "Name":"Fuhai - II",
+    "id_sub":"",
+    "Town":"Fuhai",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.71,46.79 ]
+    },
+    "properties": {
+    "Name":"Hoboksar - I",
+    "id_sub":"",
+    "Town":"Hoboksar",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.6,45.92 ]
+    },
+    "properties": {
+    "Name":"Toli - I",
+    "id_sub":"A",
+    "Town":"Toli",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.35,44.85 ]
+    },
+    "properties": {
+    "Name":"Shuanghe - I",
+    "id_sub":"",
+    "Town":"Shuanghe",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.25,41.36 ]
+    },
+    "properties": {
+    "Name":"Yuli - II",
+    "id_sub":"",
+    "Town":"Yuli",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.24,37.57 ]
+    },
+    "properties": {
+    "Name":"Pishan - I",
+    "id_sub":"A",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.84,37.24 ]
+    },
+    "properties": {
+    "Name":"Hotan County - V",
+    "id_sub":"",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.83,37.29 ]
+    },
+    "properties": {
+    "Name":"Hotan County - VI",
+    "id_sub":"",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.07,40.49 ]
+    },
+    "properties": {
+    "Name":"Kalpin - II",
+    "id_sub":"",
+    "Town":"Kalpin",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.05,39.36 ]
+    },
+    "properties": {
+    "Name":"Shule - I",
+    "id_sub":"A",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.05,39.36 ]
+    },
+    "properties": {
+    "Name":"Shule - I",
+    "id_sub":"C",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.64,37.11 ]
+    },
+    "properties": {
+    "Name":"Karakax - VIII",
+    "id_sub":"A",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.72,39.54 ]
+    },
+    "properties": {
+    "Name":"Jiashi - I",
+    "id_sub":"B",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.72,39.54 ]
+    },
+    "properties": {
+    "Name":"Jiashi - I",
+    "id_sub":"C",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.6,41.56 ]
+    },
+    "properties": {
+    "Name":"Xinhe - I",
+    "id_sub":"",
+    "Town":"Xinhe",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.45,37.85 ]
+    },
+    "properties": {
+    "Name":"Yecheng - V",
+    "id_sub":"",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.63,46.54 ]
+    },
+    "properties": {
+    "Name":"Emin - I",
+    "id_sub":"",
+    "Town":"Emin",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.86,47.44 ]
+    },
+    "properties": {
+    "Name":"Jeminay - I",
+    "id_sub":"A",
+    "Town":"Jeminay",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.28,43.82 ]
+    },
+    "properties": {
+    "Name":"Mori - I",
+    "id_sub":"A",
+    "Town":"Mori",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.65,38.91 ]
+    },
+    "properties": {
+    "Name":"Makit - II",
+    "id_sub":"",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83,46.74 ]
+    },
+    "properties": {
+    "Name":"Tacheng - II",
+    "id_sub":"",
+    "Town":"Tacheng",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.95,46.72 ]
+    },
+    "properties": {
+    "Name":"Tacheng - III",
+    "id_sub":"",
+    "Town":"Tacheng",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.98,46.2 ]
+    },
+    "properties": {
+    "Name":"Yumin - II",
+    "id_sub":"",
+    "Town":"Yumin",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.06,44.88 ]
+    },
+    "properties": {
+    "Name":"Bole - II",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.06,44.88 ]
+    },
+    "properties": {
+    "Name":"Bole - III",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.01,44.72 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Huyanghe",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.59,43.77 ]
+    },
+    "properties": {
+    "Name":"Nilka - II",
+    "id_sub":"",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.49,43.8 ]
+    },
+    "properties": {
+    "Name":"Nilka - III",
+    "id_sub":"",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.61,43.76 ]
+    },
+    "properties": {
+    "Name":"Nilka - IV",
+    "id_sub":"",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.49,43.79 ]
+    },
+    "properties": {
+    "Name":"Nilka - V",
+    "id_sub":"",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.48,43.78 ]
+    },
+    "properties": {
+    "Name":"Nilka - VI",
+    "id_sub":"",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.38,46.67 ]
+    },
+    "properties": {
+    "Name":"Qinghe - I",
+    "id_sub":"",
+    "Town":"Qinghe",
+    "Prefecture":"Altay",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.12,47.82 ]
+    },
+    "properties": {
+    "Name":"Altay - II",
+    "id_sub":"",
+    "Town":"Altay",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.85,45.61 ]
+    },
+    "properties": {
+    "Name":"Karamay - III",
+    "id_sub":"",
+    "Town":"Karamay",
+    "Prefecture":"Karamay",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.26,39.73 ]
+    },
+    "properties": {
+    "Name":"Wuqia - I",
+    "id_sub":"A",
+    "Town":"Wuqia",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.01,43.6 ]
+    },
+    "properties": {
+    "Name":"Barkol - II",
+    "id_sub":"",
+    "Town":"Barkol",
+    "Prefecture":"Hami",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.24,42.95 ]
+    },
+    "properties": {
+    "Name":"Gaochang - IV",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.24,42.95 ]
+    },
+    "properties": {
+    "Name":"Gaochang - V",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.24,42.95 ]
+    },
+    "properties": {
+    "Name":"Gaochang - VI",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.17,42.89 ]
+    },
+    "properties": {
+    "Name":"Shanshan - II",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.74,41.19 ]
+    },
+    "properties": {
+    "Name":"Xayar - II",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.66,38.88 ]
+    },
+    "properties": {
+    "Name":"Makit - III",
+    "id_sub":"",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.75,37.26 ]
+    },
+    "properties": {
+    "Name":"Karakax - III",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.38,43.87 ]
+    },
+    "properties": {
+    "Name":"Yining City - IV",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.54,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - II",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.11,43.15 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - II",
+    "id_sub":"",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.99,46.21 ]
+    },
+    "properties": {
+    "Name":"Yumin - III",
+    "id_sub":"",
+    "Town":"Yumin",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.16,43.81 ]
+    },
+    "properties": {
+    "Name":"Qapqal - I",
+    "id_sub":"",
+    "Town":"Qapqal",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.16,43.82 ]
+    },
+    "properties": {
+    "Name":"Qapqal - II",
+    "id_sub":"",
+    "Town":"Qapqal",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.14,43.99 ]
+    },
+    "properties": {
+    "Name":"Jimsar - I",
+    "id_sub":"A",
+    "Town":"Jimsar",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.59,43.99 ]
+    },
+    "properties": {
+    "Name":"Qitai - I",
+    "id_sub":"",
+    "Town":"Qitai",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.61,41.98 ]
+    },
+    "properties": {
+    "Name":"Bohu - I",
+    "id_sub":"",
+    "Town":"Bohu",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.63,41.98 ]
+    },
+    "properties": {
+    "Name":"Bohu - II",
+    "id_sub":"",
+    "Town":"Bohu",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44,40.93 ]
+    },
+    "properties": {
+    "Name":"Akqi - I",
+    "id_sub":"A",
+    "Town":"Akqi",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.37,40.64 ]
+    },
+    "properties": {
+    "Name":"Awat - II",
+    "id_sub":"A",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.23,37.78 ]
+    },
+    "properties": {
+    "Name":"Taxkorgan - I",
+    "id_sub":"A",
+    "Town":"Taxkorgan",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.88,44.2 ]
+    },
+    "properties": {
+    "Name":"Fukang - II",
+    "id_sub":"",
+    "Town":"Fukang",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.07,44.85 ]
+    },
+    "properties": {
+    "Name":"Bole - IV",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.42,42.86 ]
+    },
+    "properties": {
+    "Name":"Yizhou - II",
+    "id_sub":"",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.98,44.39 ]
+    },
+    "properties": {
+    "Name":"Shihezi - II",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"Shihezi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.15 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - III",
+    "id_sub":"",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.16 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - IV",
+    "id_sub":"",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.63,43.83 ]
+    },
+    "properties": {
+    "Name":"Shuimogou - I",
+    "id_sub":"",
+    "Town":"Shuimogou",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56,39.78 ]
+    },
+    "properties": {
+    "Name":"Bachu - V",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.68,37.06 ]
+    },
+    "properties": {
+    "Name":"Minfeng - II",
+    "id_sub":"",
+    "Town":"Minfeng",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.67,36.85 ]
+    },
+    "properties": {
+    "Name":"Yutian - III",
+    "id_sub":"",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.81,37 ]
+    },
+    "properties": {
+    "Name":"Qira - III",
+    "id_sub":"",
+    "Town":"Qira",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.19,37.08 ]
+    },
+    "properties": {
+    "Name":"Lop - II",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.75,37.28 ]
+    },
+    "properties": {
+    "Name":"Karakax - II",
+    "id_sub":"A",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.86,42.26 ]
+    },
+    "properties": {
+    "Name":"Hoxud - I",
+    "id_sub":"",
+    "Town":"Hoxud",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.4,41.08 ]
+    },
+    "properties": {
+    "Name":"Wensu - IV",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.41,41.08 ]
+    },
+    "properties": {
+    "Name":"Wensu - V",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.59,41.89 ]
+    },
+    "properties": {
+    "Name":"Tiemenguan - II",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.6,41.89 ]
+    },
+    "properties": {
+    "Name":"Tiemenguan - III",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.71,46.79 ]
+    },
+    "properties": {
+    "Name":"Hoboksar - II",
+    "id_sub":"",
+    "Town":"Hoboksar",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.5,47.11 ]
+    },
+    "properties": {
+    "Name":"Fuhai - III",
+    "id_sub":"",
+    "Town":"Fuhai",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.23,42.89 ]
+    },
+    "properties": {
+    "Name":"Shanshan - III",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.05,40.5 ]
+    },
+    "properties": {
+    "Name":"Kalpin - III",
+    "id_sub":"",
+    "Town":"Kalpin",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.65,44.17 ]
+    },
+    "properties": {
+    "Name":"Korgas - I",
+    "id_sub":"",
+    "Town":"Korgas",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.03,44.97 ]
+    },
+    "properties": {
+    "Name":"Wenquan - II",
+    "id_sub":"",
+    "Town":"Wenquan",
+    "Prefecture":"Bortala",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.75,39.49 ]
+    },
+    "properties": {
+    "Name":"Jiashi - III",
+    "id_sub":"",
+    "Town":"Jiashi",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.94 ]
+    },
+    "properties": {
+    "Name":"Xinshi - II",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.57,43.95 ]
+    },
+    "properties": {
+    "Name":"Xinshi - III",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.93 ]
+    },
+    "properties": {
+    "Name":"Xinshi - IV",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.59,43.93 ]
+    },
+    "properties": {
+    "Name":"Xinshi - V",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.59,43.93 ]
+    },
+    "properties": {
+    "Name":"Xinshi - VI",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.94 ]
+    },
+    "properties": {
+    "Name":"Xinshi - XIII",
+    "id_sub":"A",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.53,43.91 ]
+    },
+    "properties": {
+    "Name":"Xinshi - VIII",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.56,43.8 ]
+    },
+    "properties": {
+    "Name":"Saybagh - II",
+    "id_sub":"",
+    "Town":"Saybagh",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.65,43.75 ]
+    },
+    "properties": {
+    "Name":"Tianshan - I",
+    "id_sub":"",
+    "Town":"Tianshan",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.5,43.77 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Saybagh",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.62 ]
+    },
+    "properties": {
+    "Name":"Urumqi County - I",
+    "id_sub":"",
+    "Town":"Urumqi County",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.32,43.96 ]
+    },
+    "properties": {
+    "Name":"Toutunhe - II",
+    "id_sub":"",
+    "Town":"Toutunhe",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.57,43.76 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Urumqi County",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.44,43.87 ]
+    },
+    "properties": {
+    "Name":"Toutunhe - V",
+    "id_sub":"",
+    "Town":"Toutunhe",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.39,43.88 ]
+    },
+    "properties": {
+    "Name":"Toutunhe - III",
+    "id_sub":"",
+    "Town":"Toutunhe",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.67,43.97 ]
+    },
+    "properties": {
+    "Name":"Midong - II",
+    "id_sub":"",
+    "Town":"Midong",
+    "Prefecture":"Ürümqi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.43,44.03 ]
+    },
+    "properties": {
+    "Name":"Xinshi - X",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.97,39.45 ]
+    },
+    "properties": {
+    "Name":"Kashgar - III",
+    "id_sub":"",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.17,38.94 ]
+    },
+    "properties": {
+    "Name":"Yengisar - III",
+    "id_sub":"",
+    "Town":"Yengisar",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.56,38.88 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.26,38.2 ]
+    },
+    "properties": {
+    "Name":"Zepu - III",
+    "id_sub":"",
+    "Town":"Zepu",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.18,39.7 ]
+    },
+    "properties": {
+    "Name":"Artux - VI",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.94,37.11 ]
+    },
+    "properties": {
+    "Name":"Hotan City - III",
+    "id_sub":"",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.93,37.19 ]
+    },
+    "properties": {
+    "Name":"Hotan City - IV",
+    "id_sub":"",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.28,37.58 ]
+    },
+    "properties": {
+    "Name":"Pishan - II",
+    "id_sub":"A",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.68,37.06 ]
+    },
+    "properties": {
+    "Name":"Minfeng - III",
+    "id_sub":"",
+    "Town":"Minfeng",
+    "Prefecture":"Hotan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22,41.15 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22,41.15 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.22,41.15 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.25,41.19 ]
+    },
+    "properties": {
+    "Name":"Aksu - V",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.42,41.01 ]
+    },
+    "properties": {
+    "Name":"Aksu - III",
+    "id_sub":"",
+    "Town":"Aksu",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.12,41.77 ]
+    },
+    "properties": {
+    "Name":"Korla - VII",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.11,41.77 ]
+    },
+    "properties": {
+    "Name":"Korla - VI",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.89,41.8 ]
+    },
+    "properties": {
+    "Name":"Tiemenguan - IV",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.91,41.76 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.26,41.78 ]
+    },
+    "properties": {
+    "Name":"Luntai - II",
+    "id_sub":"",
+    "Town":"Luntai",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.55,42.05 ]
+    },
+    "properties": {
+    "Name":"Yanqi - II",
+    "id_sub":"A",
+    "Town":"Yanqi",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.42,41.94 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Yanqi",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.4,42.31 ]
+    },
+    "properties": {
+    "Name":"Hejing - II",
+    "id_sub":"",
+    "Town":"Hejing",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.52,38.14 ]
+    },
+    "properties": {
+    "Name":"Qiemo - II",
+    "id_sub":"",
+    "Town":"Qiemo",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.16,39.02 ]
+    },
+    "properties": {
+    "Name":"Ruoqiang - II",
+    "id_sub":"",
+    "Town":"Ruoqiang",
+    "Prefecture":"Bayingolin",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.64,42.78 ]
+    },
+    "properties": {
+    "Name":"Toksun - II",
+    "id_sub":"",
+    "Town":"Toksun",
+    "Prefecture":"Turpan",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.53,42.82 ]
+    },
+    "properties": {
+    "Name":"Yizhou - III",
+    "id_sub":"",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.42,42.92 ]
+    },
+    "properties": {
+    "Name":"Yizhou - IV",
+    "id_sub":"",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.66,43.23 ]
+    },
+    "properties": {
+    "Name":"Yiwu - II",
+    "id_sub":"A",
+    "Town":"Yiwu",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.69,43.25 ]
+    },
+    "properties": {
+    "Name":"Yiwu - I",
+    "id_sub":"",
+    "Town":"Yiwu",
+    "Prefecture":"Hami",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.34,43.92 ]
+    },
+    "properties": {
+    "Name":"Yining City - V",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.3,43.96 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.52,43.97 ]
+    },
+    "properties": {
+    "Name":"Yining County - III",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.77,44.13 ]
+    },
+    "properties": {
+    "Name":"Kokdala - I",
+    "id_sub":"",
+    "Town":"Kokdala",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81,43.97 ]
+    },
+    "properties": {
+    "Name":"Kokdala - II",
+    "id_sub":"",
+    "Town":"Kokdala",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.91,44.05 ]
+    },
+    "properties": {
+    "Name":"Huocheng - III",
+    "id_sub":"",
+    "Town":"Huocheng",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.23,43.48 ]
+    },
+    "properties": {
+    "Name":"Gongliu - II",
+    "id_sub":"",
+    "Town":"Gongliu",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.25,43.43 ]
+    },
+    "properties": {
+    "Name":"Xinyuan - V",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.95,43.02 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.95,43.02 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.89,44.6 ]
+    },
+    "properties": {
+    "Name":"Jinghe - II",
+    "id_sub":"",
+    "Town":"Jinghe",
+    "Prefecture":"Bortala",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.91,46.73 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Tacheng",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.6,46.51 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Emin",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.6,45.93 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Toli",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.55,44.57 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.66,44.42 ]
+    },
+    "properties": {
+    "Name":"Usu - III",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.74,44.43 ]
+    },
+    "properties": {
+    "Name":"Usu - IV",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.51,44.98 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Huyanghe",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.82,47.36 ]
+    },
+    "properties": {
+    "Name":"Beitun - I",
+    "id_sub":"",
+    "Town":"Beitun",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.79,47.33 ]
+    },
+    "properties": {
+    "Name":"Beitun - II",
+    "id_sub":"",
+    "Town":"Beitun",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.22,44.03 ]
+    },
+    "properties": {
+    "Name":"Changji - IV",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.2,44.17 ]
+    },
+    "properties": {
+    "Name":"Changji - V",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.65,44.53 ]
+    },
+    "properties": {
+    "Name":"z",
+    "id_sub":"",
+    "Town":"Manas",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.21,44.31 ]
+    },
+    "properties": {
+    "Name":"Manas - II",
+    "id_sub":"",
+    "Town":"Manas",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.95,44.16 ]
+    },
+    "properties": {
+    "Name":"Fukang - III",
+    "id_sub":"",
+    "Town":"Fukang",
+    "Prefecture":"Changji",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.13,45.69 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Baijiantan",
+    "Prefecture":"Karamay",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.89,44.32 ]
+    },
+    "properties": {
+    "Name":"Dushanzi - II",
+    "id_sub":"",
+    "Town":"Dushanzi",
+    "Prefecture":"Karamay",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.79,44.42 ]
+    },
+    "properties": {
+    "Name":"Kuytun - II",
+    "id_sub":"",
+    "Town":"Kuytun",
+    "Prefecture":"Ili",
+    "facility type":"prison - high security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.95,44.25 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"Shihezi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.95,44.25 ]
+    },
+    "properties": {
+    "Name":"Shiheze - III",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.96,44.24 ]
+    },
+    "properties": {
+    "Name":"Shihezi - IV",
+    "id_sub":"A",
+    "Town":"Shihezi",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.03,44.32 ]
+    },
+    "properties": {
+    "Name":"Shihezi - V",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"Shihezi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme - detention centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.02,44.28 ]
+    },
+    "properties": {
+    "Name":"Shihezi - VI",
+    "id_sub":"",
+    "Town":"Shihezi",
+    "Prefecture":"Shihezi",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.52,44.18 ]
+    },
+    "properties": {
+    "Name":"Wujiaqu - I",
+    "id_sub":"",
+    "Town":"Wujiaqu",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.51,44.17 ]
+    },
+    "properties": {
+    "Name":"Wujiaqu - II",
+    "id_sub":"",
+    "Town":"Wujiaqu",
+    "Prefecture":"",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.54,43.73 ]
+    },
+    "properties": {
+    "Name":"Saybagh - III",
+    "id_sub":"",
+    "Town":"Saybagh",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.52,44 ]
+    },
+    "properties": {
+    "Name":"Xinshi - IX",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.39,43.96 ]
+    },
+    "properties": {
+    "Name":"Toutunhe - IV",
+    "id_sub":"",
+    "Town":"Toutunhe",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.1,39.41 ]
+    },
+    "properties": {
+    "Name":"Shule - VII",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.15,38.42 ]
+    },
+    "properties": {
+    "Name":"Shache - XI",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.27,38.17 ]
+    },
+    "properties": {
+    "Name":"Zepu - IV",
+    "id_sub":"",
+    "Town":"Zepu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,39.67 ]
+    },
+    "properties": {
+    "Name":"Artux - VII",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.18,39.7 ]
+    },
+    "properties": {
+    "Name":"Artux - VIII",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.94,39.16 ]
+    },
+    "properties": {
+    "Name":"Akto - V",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.02,39.25 ]
+    },
+    "properties": {
+    "Name":"Akto - VI",
+    "id_sub":"",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.9,37.07 ]
+    },
+    "properties": {
+    "Name":"Hotan City - V",
+    "id_sub":"",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.63,37.29 ]
+    },
+    "properties": {
+    "Name":"Karakax - IX",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.56,37.32 ]
+    },
+    "properties": {
+    "Name":"Karakax - XI",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.51,36.85 ]
+    },
+    "properties": {
+    "Name":"Yutian - V",
+    "id_sub":"",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.33,41.28 ]
+    },
+    "properties": {
+    "Name":"Wushi - III",
+    "id_sub":"",
+    "Town":"Wushi",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.35,40.67 ]
+    },
+    "properties": {
+    "Name":"Awat - III",
+    "id_sub":"",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.35,40.65 ]
+    },
+    "properties": {
+    "Name":"Awat - IV",
+    "id_sub":"",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.5,40.64 ]
+    },
+    "properties": {
+    "Name":"Aral - II",
+    "id_sub":"",
+    "Town":"Aral",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.24,40.56 ]
+    },
+    "properties": {
+    "Name":"Aral - III",
+    "id_sub":"",
+    "Town":"Aral",
+    "Prefecture":"XPCC",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.14,41.74 ]
+    },
+    "properties": {
+    "Name":"Korla - VIII",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.55,42.06 ]
+    },
+    "properties": {
+    "Name":"Yanqi - III",
+    "id_sub":"",
+    "Town":"Yanqi",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.34,42.33 ]
+    },
+    "properties": {
+    "Name":"Hejing - III",
+    "id_sub":"",
+    "Town":"Hejing",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.88,42.29 ]
+    },
+    "properties": {
+    "Name":"Hoxud - III",
+    "id_sub":"",
+    "Town":"Hoxud",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.52,38.15 ]
+    },
+    "properties": {
+    "Name":"Qiemo - IV",
+    "id_sub":"",
+    "Town":"Qiemo",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.22,42.86 ]
+    },
+    "properties": {
+    "Name":"Shanshan - IV",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.24,42.88 ]
+    },
+    "properties": {
+    "Name":"Shanshan - V",
+    "id_sub":"",
+    "Town":"Shanshan",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.48,42.86 ]
+    },
+    "properties": {
+    "Name":"Yizhou - V",
+    "id_sub":"",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.31,43.9 ]
+    },
+    "properties": {
+    "Name":"Yining City - VI",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.32,43.91 ]
+    },
+    "properties": {
+    "Name":"Yining City - IX",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.31,43.96 ]
+    },
+    "properties": {
+    "Name":"Yining City - VII",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.48,43.96 ]
+    },
+    "properties": {
+    "Name":"Yining County - IV",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.5,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - IX",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.5,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - V",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.53,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - VI",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.84 ]
+    },
+    "properties": {
+    "Name":"Qapqal - III",
+    "id_sub":"",
+    "Town":"Qapqal",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.2,43.83 ]
+    },
+    "properties": {
+    "Name":"Qapqal - IV",
+    "id_sub":"",
+    "Town":"Qapqal",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.88,44.06 ]
+    },
+    "properties": {
+    "Name":"Huocheng - IV",
+    "id_sub":"",
+    "Town":"Huocheng",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.76,44.19 ]
+    },
+    "properties": {
+    "Name":"Huocheng - V",
+    "id_sub":"",
+    "Town":"Huocheng",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.84,43.23 ]
+    },
+    "properties": {
+    "Name":"Tekes - II",
+    "id_sub":"",
+    "Town":"Tekes",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.66,46.54 ]
+    },
+    "properties": {
+    "Name":"Emin - III",
+    "id_sub":"",
+    "Town":"Emin",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.6,44.33 ]
+    },
+    "properties": {
+    "Name":"Shawan - II",
+    "id_sub":"",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.65,44.43 ]
+    },
+    "properties": {
+    "Name":"Usu - V",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.67,44.43 ]
+    },
+    "properties": {
+    "Name":"Usu - VI",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.73,44.45 ]
+    },
+    "properties": {
+    "Name":"Usu - VII",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.42,48.02 ]
+    },
+    "properties": {
+    "Name":"Habahe - II",
+    "id_sub":"",
+    "Town":"Habahe",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.4,44.08 ]
+    },
+    "properties": {
+    "Name":"Changji - VI",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.31,44.08 ]
+    },
+    "properties": {
+    "Name":"Changji - VII",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.49,44.01 ]
+    },
+    "properties": {
+    "Name":"Qitai - II",
+    "id_sub":"",
+    "Town":"Qitai",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.28,43.81 ]
+    },
+    "properties": {
+    "Name":"Mori - II",
+    "id_sub":"",
+    "Town":"Mori",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.56,44.18 ]
+    },
+    "properties": {
+    "Name":"Wujiaqu - III",
+    "id_sub":"",
+    "Town":"Wujiaqu",
+    "Prefecture":"XPCC",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.9 ]
+    },
+    "properties": {
+    "Name":"Xinshi - XI",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.69,37.02 ]
+    },
+    "properties": {
+    "Name":"Minfeng - IV",
+    "id_sub":"",
+    "Town":"Minfeng",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.02,41.75 ]
+    },
+    "properties": {
+    "Name":"Kuqa - III",
+    "id_sub":"B",
+    "Town":"Kuqa",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87,44.1 ]
+    },
+    "properties": {
+    "Name":"Changji - VIII",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.27,43.38 ]
+    },
+    "properties": {
+    "Name":"Dabancheng - II",
+    "id_sub":"",
+    "Town":"Dabancheng",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.37,40.64 ]
+    },
+    "properties": {
+    "Name":"Awat - II",
+    "id_sub":"B",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.53,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - VIII",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.53,43.98 ]
+    },
+    "properties": {
+    "Name":"Yining County - X",
+    "id_sub":"",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3,43.38 ]
+    },
+    "properties": {
+    "Name":"Dabancheng - I",
+    "id_sub":"B",
+    "Town":"Dabancheng",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.76,36.84 ]
+    },
+    "properties": {
+    "Name":"Yutian - II",
+    "id_sub":"A",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.86,37.16 ]
+    },
+    "properties": {
+    "Name":"Hotan City - I",
+    "id_sub":"B",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.35,37.91 ]
+    },
+    "properties": {
+    "Name":"Yecheng - I",
+    "id_sub":"C",
+    "Town":"Yecheng",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.64,37.11 ]
+    },
+    "properties": {
+    "Name":"Karakax - VIII",
+    "id_sub":"B",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.86,39.36 ]
+    },
+    "properties": {
+    "Name":"Shufu - I",
+    "id_sub":"A",
+    "Town":"Shufu",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.85,37.25 ]
+    },
+    "properties": {
+    "Name":"Hotan County - I",
+    "id_sub":"B",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.85,37.25 ]
+    },
+    "properties": {
+    "Name":"Hotan County - I",
+    "id_sub":"C",
+    "Town":"Hotan County",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.11,39.45 ]
+    },
+    "properties": {
+    "Name":"Kashgar - II",
+    "id_sub":"B",
+    "Town":"Kashgar",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.24,41.35 ]
+    },
+    "properties": {
+    "Name":"Wensu - I",
+    "id_sub":"B",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.18,37.1 ]
+    },
+    "properties": {
+    "Name":"Lop - I",
+    "id_sub":"C",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.18,37.1 ]
+    },
+    "properties": {
+    "Name":"Lop - I",
+    "id_sub":"B",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.18,37.1 ]
+    },
+    "properties": {
+    "Name":"Lop - V",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.53,44 ]
+    },
+    "properties": {
+    "Name":"Yining County - I",
+    "id_sub":"B",
+    "Town":"Yining County",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.58,38.1 ]
+    },
+    "properties": {
+    "Name":"Qiemo - III",
+    "id_sub":"",
+    "Town":"Qiemo",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.71,38.84 ]
+    },
+    "properties": {
+    "Name":"Makit - I",
+    "id_sub":"A",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.71,38.84 ]
+    },
+    "properties": {
+    "Name":"Makit - I",
+    "id_sub":"C",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.81,36.97 ]
+    },
+    "properties": {
+    "Name":"Qira - II",
+    "id_sub":"B",
+    "Town":"Qira",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.06,38.94 ]
+    },
+    "properties": {
+    "Name":"Yengisar - I",
+    "id_sub":"A",
+    "Town":"Yengisar",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.29,41.72 ]
+    },
+    "properties": {
+    "Name":"Korla - V",
+    "id_sub":"B",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.22,38.08 ]
+    },
+    "properties": {
+    "Name":"Zepu - II",
+    "id_sub":"B",
+    "Town":"Zepu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.05,47.74 ]
+    },
+    "properties": {
+    "Name":"Altay - I",
+    "id_sub":"B",
+    "Town":"Altay",
+    "Prefecture":"Altay",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.96,43.6 ]
+    },
+    "properties": {
+    "Name":"Barkol - III",
+    "id_sub":"B",
+    "Town":"Barkol",
+    "Prefecture":"Hami",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.02,41.75 ]
+    },
+    "properties": {
+    "Name":"Kuqa - III",
+    "id_sub":"A",
+    "Town":"Kuqa",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.02,41.75 ]
+    },
+    "properties": {
+    "Name":"Kuqa - III",
+    "id_sub":"C",
+    "Town":"Kuqa",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.92,44.54 ]
+    },
+    "properties": {
+    "Name":"Jinghe - I",
+    "id_sub":"B",
+    "Town":"Jinghe",
+    "Prefecture":"Bortala",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.76,44.37 ]
+    },
+    "properties": {
+    "Name":"Usu - VIII",
+    "id_sub":"",
+    "Town":"Usu",
+    "Prefecture":"Tacheng",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.18,39.71 ]
+    },
+    "properties": {
+    "Name":"Wuqia - III",
+    "id_sub":"",
+    "Town":"Wuqia",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.88,41 ]
+    },
+    "properties": {
+    "Name":"Xayar - III",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.85,41.02 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.91,41.01 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.89,40.99 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.95,41.03 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.99,41.02 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.75,41.05 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.07,46.79 ]
+    },
+    "properties": {
+    "Name":"Tacheng - I",
+    "id_sub":"B",
+    "Town":"Tacheng",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.2,41.21 ]
+    },
+    "properties": {
+    "Name":"Wushi - II",
+    "id_sub":"A",
+    "Town":"Wushi",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.2,41.21 ]
+    },
+    "properties": {
+    "Name":"Wushi - II",
+    "id_sub":"C",
+    "Town":"Wushi",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.24,37.05 ]
+    },
+    "properties": {
+    "Name":"Lop - VI",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.31,43.9 ]
+    },
+    "properties": {
+    "Name":"Yining City - VIII",
+    "id_sub":"",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.29,37.57 ]
+    },
+    "properties": {
+    "Name":"Pishan - III",
+    "id_sub":"",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.62,46.64 ]
+    },
+    "properties": {
+    "Name":"Emin - II",
+    "id_sub":"",
+    "Town":"Emin",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.02,39.68 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Maralbishi",
+    "Prefecture":"Kashgar",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.82,44.33 ]
+    },
+    "properties": {
+    "Name":"Dushanzi - I",
+    "id_sub":"B",
+    "Town":"Dushanzi",
+    "Prefecture":"Karamay",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.07,44.41 ]
+    },
+    "properties": {
+    "Name":"Kuytun - I",
+    "id_sub":"B",
+    "Town":"Kuytun",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.63,44.35 ]
+    },
+    "properties": {
+    "Name":"Shawan - I",
+    "id_sub":"B",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.64,44.35 ]
+    },
+    "properties": {
+    "Name":"Shawan - III",
+    "id_sub":"",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"prison - high security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.32,37.23 ]
+    },
+    "properties": {
+    "Name":"Kunyu - III",
+    "id_sub":"",
+    "Town":"Kunyu",
+    "Prefecture":"XPCC",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.56,39.78 ]
+    },
+    "properties": {
+    "Name":"Bachu - X",
+    "id_sub":"",
+    "Town":"Bachu",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.85,42.26 ]
+    },
+    "properties": {
+    "Name":"Hoxud - II",
+    "id_sub":"",
+    "Town":"Hoxud",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.17,42.98 ]
+    },
+    "properties": {
+    "Name":"Gaochang - VII",
+    "id_sub":"",
+    "Town":"Gaochang",
+    "Prefecture":"Turpan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.18 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - I",
+    "id_sub":"B",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.14,43.18 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - I",
+    "id_sub":"C",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.13,43.18 ]
+    },
+    "properties": {
+    "Name":"Zhaosu - I",
+    "id_sub":"D",
+    "Town":"Zhaosu",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.97,37.13 ]
+    },
+    "properties": {
+    "Name":"Hotan City - II",
+    "id_sub":"B",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.97,37.13 ]
+    },
+    "properties": {
+    "Name":"Hotan City - II",
+    "id_sub":"C",
+    "Town":"Hotan City",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.83,41.23 ]
+    },
+    "properties": {
+    "Name":"Xayar - I",
+    "id_sub":"B",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.83,41.23 ]
+    },
+    "properties": {
+    "Name":"Xayar - I",
+    "id_sub":"C",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.82,41.77 ]
+    },
+    "properties": {
+    "Name":"Baicheng - I",
+    "id_sub":"B",
+    "Town":"Baicheng",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.82,41.77 ]
+    },
+    "properties": {
+    "Name":"Baicheng - I",
+    "id_sub":"C",
+    "Town":"Baicheng",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.3,41.81 ]
+    },
+    "properties": {
+    "Name":"Luntai - I",
+    "id_sub":"B",
+    "Town":"Luntai",
+    "Prefecture":"Bayingolin",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.5,47 ]
+    },
+    "properties": {
+    "Name":"Fuyun - I",
+    "id_sub":"B",
+    "Town":"Fuyun",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.31,42.31 ]
+    },
+    "properties": {
+    "Name":"Hejing - I",
+    "id_sub":"B",
+    "Town":"Hejing",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.29,42.31 ]
+    },
+    "properties": {
+    "Name":"Hejing - I",
+    "id_sub":"C",
+    "Town":"Hejing",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.83,43.2 ]
+    },
+    "properties": {
+    "Name":"Tekes - I",
+    "id_sub":"B",
+    "Town":"Tekes",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.86,47.44 ]
+    },
+    "properties": {
+    "Name":"Jeminay - I",
+    "id_sub":"B",
+    "Town":"Jeminay",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.26,39.72 ]
+    },
+    "properties": {
+    "Name":"Wuqia - I",
+    "id_sub":"B",
+    "Town":"Wuqia",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.26,39.72 ]
+    },
+    "properties": {
+    "Name":"Wuqia - I",
+    "id_sub":"C",
+    "Town":"Wuqia",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.95,44.24 ]
+    },
+    "properties": {
+    "Name":"Shihezi - IV",
+    "id_sub":"B",
+    "Town":"Shihezi",
+    "Prefecture":"XPCC",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99,39.64 ]
+    },
+    "properties": {
+    "Name":"Artux - X",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.67,37 ]
+    },
+    "properties": {
+    "Name":"Yutian - VI",
+    "id_sub":"",
+    "Town":"Yutian",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.16,45.7 ]
+    },
+    "properties": {
+    "Name":"Baijiantan - II",
+    "id_sub":"",
+    "Town":"Baijiantan",
+    "Prefecture":"",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.52,38.14 ]
+    },
+    "properties": {
+    "Name":"Qiemo - V",
+    "id_sub":"",
+    "Town":"Qiemo",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.01,39.37 ]
+    },
+    "properties": {
+    "Name":"Shule - IX",
+    "id_sub":"",
+    "Town":"Shule",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.77,41.24 ]
+    },
+    "properties": {
+    "Name":"Xayar - IV",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.99,44.1 ]
+    },
+    "properties": {
+    "Name":"Changji - IX",
+    "id_sub":"",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.51,43.82 ]
+    },
+    "properties": {
+    "Name":"Nilka - I",
+    "id_sub":"B",
+    "Town":"Nilka",
+    "Prefecture":"Ili",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.67,39 ]
+    },
+    "properties": {
+    "Name":"Makit - IV",
+    "id_sub":"",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.62,38.9 ]
+    },
+    "properties": {
+    "Name":"Makit - V",
+    "id_sub":"",
+    "Town":"Makit",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.23,37.05 ]
+    },
+    "properties": {
+    "Name":"Lop - VII",
+    "id_sub":"",
+    "Town":"Lop",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.66,37.15 ]
+    },
+    "properties": {
+    "Name":"Karakax - X",
+    "id_sub":"",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.22,44 ]
+    },
+    "properties": {
+    "Name":"Jimsar - II",
+    "id_sub":"",
+    "Town":"Jimsar",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.29,46.68 ]
+    },
+    "properties": {
+    "Name":"Qinghe - II",
+    "id_sub":"",
+    "Town":"Qinghe",
+    "Prefecture":"Altay",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.96,44.89 ]
+    },
+    "properties": {
+    "Name":"Bole - V",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.68,43.89 ]
+    },
+    "properties": {
+    "Name":"Shuimogou - II",
+    "id_sub":"",
+    "Town":"Shuimogou",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.68,41.38 ]
+    },
+    "properties": {
+    "Name":"Wensu - VII",
+    "id_sub":"",
+    "Town":"Wensu",
+    "Prefecture":"Aksu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.5,47 ]
+    },
+    "properties": {
+    "Name":"Fuyun - II",
+    "id_sub":"",
+    "Town":"Fuyun",
+    "Prefecture":"Altay",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.58,43.9 ]
+    },
+    "properties": {
+    "Name":"Xinshi - XII",
+    "id_sub":"",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.69,43.82 ]
+    },
+    "properties": {
+    "Name":"Shuimogou - III",
+    "id_sub":"",
+    "Town":"Shuimogou",
+    "Prefecture":"Ürümqi",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.47,37.69 ]
+    },
+    "properties": {
+    "Name":"Kunyu - IV",
+    "id_sub":"",
+    "Town":"Kunyu",
+    "Prefecture":"XPCC",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.28,37.62 ]
+    },
+    "properties": {
+    "Name":"Pishan - V",
+    "id_sub":"",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.84,46.89 ]
+    },
+    "properties": {
+    "Name":"Fuhai - V",
+    "id_sub":"",
+    "Town":"Fuhai",
+    "Prefecture":"Altay",
+    "facility type":"prison - medium security",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.2,44.82 ]
+    },
+    "properties": {
+    "Name":"Bole - VI",
+    "id_sub":"",
+    "Town":"Bole",
+    "Prefecture":"Bortala",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.89,41.8 ]
+    },
+    "properties": {
+    "Name":"Tiemenguan - V",
+    "id_sub":"",
+    "Town":"Tiemenguan",
+    "Prefecture":"XPCC",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.27,38.39 ]
+    },
+    "properties": {
+    "Name":"Shache - XIII",
+    "id_sub":"",
+    "Town":"Shache",
+    "Prefecture":"Kashgar",
+    "facility type":"camp",
+    "corroboration level":"Satellite - medium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87,44.1 ]
+    },
+    "properties": {
+    "Name":"Changji - I",
+    "id_sub":"B",
+    "Town":"Changji",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.89,44.21 ]
+    },
+    "properties": {
+    "Name":"Hutubi - I",
+    "id_sub":"C",
+    "Town":"Hutubi",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.89,44.21 ]
+    },
+    "properties": {
+    "Name":"Hutubi - I",
+    "id_sub":"B",
+    "Town":"Hutubi",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.28,43.46 ]
+    },
+    "properties": {
+    "Name":"Xinyuan 6 - VI",
+    "id_sub":"",
+    "Town":"Xinyuan",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.52,42.86 ]
+    },
+    "properties": {
+    "Name":"Yizhou - I",
+    "id_sub":"B",
+    "Town":"Yizhou",
+    "Prefecture":"Hami",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.21,43.52 ]
+    },
+    "properties": {
+    "Name":"Gongliu - I",
+    "id_sub":"B",
+    "Town":"Gongliu",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.39,43.9 ]
+    },
+    "properties": {
+    "Name":"Yining City - II",
+    "id_sub":"B",
+    "Town":"Yining City",
+    "Prefecture":"Ili",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.6,45.92 ]
+    },
+    "properties": {
+    "Name":"Toli - I",
+    "id_sub":"B",
+    "Town":"Toli",
+    "Prefecture":"Tacheng",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.28,43.82 ]
+    },
+    "properties": {
+    "Name":"Mori - I",
+    "id_sub":"B",
+    "Town":"Mori",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.14,43.99 ]
+    },
+    "properties": {
+    "Name":"Jimsar - I",
+    "id_sub":"B",
+    "Town":"Jimsar",
+    "Prefecture":"Changji",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.44,40.93 ]
+    },
+    "properties": {
+    "Name":"Akqi - I",
+    "id_sub":"B",
+    "Town":"Akqi",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.75,37.28 ]
+    },
+    "properties": {
+    "Name":"Karakax - II",
+    "id_sub":"B",
+    "Town":"Karakax",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.57,43.94 ]
+    },
+    "properties": {
+    "Name":"Xinshi - XIII",
+    "id_sub":"B",
+    "Town":"Xinshi",
+    "Prefecture":"Ürümqi",
+    "facility type":"prison - medium security",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.28,37.58 ]
+    },
+    "properties": {
+    "Name":"Pishan - II",
+    "id_sub":"B",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.66,43.23 ]
+    },
+    "properties": {
+    "Name":"Yiwu - II",
+    "id_sub":"B",
+    "Town":"Yiwu",
+    "Prefecture":"Hami",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.24,37.57 ]
+    },
+    "properties": {
+    "Name":"Pishan - I",
+    "id_sub":"B",
+    "Town":"Pishan",
+    "Prefecture":"Hotan",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.55,42.05 ]
+    },
+    "properties": {
+    "Name":"Yanqi - II",
+    "id_sub":"B",
+    "Town":"Yanqi",
+    "Prefecture":"Bayingolin",
+    "facility type":"camp",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3,46.68 ]
+    },
+    "properties": {
+    "Name":"Qinghe - III",
+    "id_sub":"",
+    "Town":"Qinghe",
+    "Prefecture":"Altay",
+    "facility type":"prison - medium security",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.99,39.64 ]
+    },
+    "properties": {
+    "Name":"Artux - XI",
+    "id_sub":"",
+    "Town":"Artux",
+    "Prefecture":"Kizilsu",
+    "facility type":"camp",
+    "corroboration level":"Satellite - strong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.23,37.78 ]
+    },
+    "properties": {
+    "Name":"Taxkorgan - I",
+    "id_sub":"B",
+    "Town":"Taxkorgan",
+    "Prefecture":"Kashgar",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.93,39.11 ]
+    },
+    "properties": {
+    "Name":"Akto - III",
+    "id_sub":"B",
+    "Town":"Akto",
+    "Prefecture":"Kizilsu",
+    "facility type":"detention center",
+    "corroboration level":"sub-compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.93,41.03 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Xayar",
+    "Prefecture":"Aksu",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.6,43.99 ]
+    },
+    "properties": {
+    "Name":"Qitai - III",
+    "id_sub":"",
+    "Town":"Qitai",
+    "Prefecture":"Changji",
+    "facility type":"camp",
+    "corroboration level":"corroborated"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.84,45.62 ]
+    },
+    "properties": {
+    "Name":"Karamay - IV",
+    "id_sub":"",
+    "Town":"Karamay",
+    "Prefecture":"Karamay",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.46,44.52 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.43,44.52 ]
+    },
+    "properties": {
+    "Name":"",
+    "id_sub":"",
+    "Town":"Shawan",
+    "Prefecture":"Tacheng",
+    "facility type":"",
+    "corroboration level":"Pre-2016 programme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.66,46.57 ]
+    },
+    "properties": {
+    "Name":"Emin - IV",
+    "id_sub":"",
+    "Town":"Emin",
+    "Prefecture":"Tacheng",
+    "facility type":"camp",
+    "corroboration level":"probably closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.11,41.73 ]
+    },
+    "properties": {
+    "Name":"Korla - IX",
+    "id_sub":"",
+    "Town":"Korla",
+    "Prefecture":"Bayingolin",
+    "facility type":"detention center",
+    "corroboration level":"closed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.27,40.64 ]
+    },
+    "properties": {
+    "Name":"Awat - V",
+    "id_sub":"",
+    "Town":"Awat",
+    "Prefecture":"Aksu",
+    "facility type":"detention center",
+    "corroboration level":"corroborated"
+    }
+  }
+]
+}

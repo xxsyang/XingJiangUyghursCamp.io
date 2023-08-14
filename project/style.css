@@ -1,0 +1,50 @@
+body {
+    font-family: "PT Serif", serif;
+    background-color: antiquewhite;
+}
+
+#header {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    font-style: italic;
+}
+
+#left {
+    float: left;
+    width: 55%;
+}
+
+path {
+    stroke: #fff;
+    fill: #318ce7; /* Wanted to use the color of East Turkistani flag but can't find the hex value. Used Bleu De France instead. */
+    opacity: 0.3;
+}
+
+circle {
+    stroke: #ff0000;
+    stroke-width: 1;
+}
+
+#right {
+    float: right;
+    width: 45%;
+}
+
+.filter_button {
+    padding: 20px;
+    margin: 0 5px 0 0;
+    border: 0 solid;
+    letter-spacing: 1.5px;
+    color: #318ce7;
+}
+
+.unfilter_button {
+    padding: 20px;
+    margin: 0 5px 0 0;
+    border: 0 solid;
+    letter-spacing: 1.5px;
+    color: #318ce7;
+}
