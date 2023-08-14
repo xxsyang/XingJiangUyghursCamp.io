@@ -1,6 +1,6 @@
 body {
     font-family: "PT Serif", serif;
-    background-color: antiquewhite;
+    background-color: antiquewhite
 }
 
 #header {
@@ -9,36 +9,57 @@ body {
 
 #title {
     text-align: center;
-    font-style: italic;
+    font-style: italic
 }
 
 #left {
     float: left;
-    width: 55%;
+    width: 55%
 }
 
 path {
     stroke: #fff;
     fill: #318ce7; /* Wanted to use the color of East Turkistani flag but can't find the hex value. Used Bleu De France instead. */
-    opacity: 0.3;
+    opacity: 0.3
 }
 
-circle {
-    stroke: #ff0000;
-    stroke-width: 1;
+circle[id^="zcamp"] {
+    fill: #ff0000;
+    stroke: #fff;
+    stroke-width: 1
 }
 
-#right {
-    float: right;
-    width: 45%;
+circle[id^="zdetention"] {
+    fill: #5F7161;
+    stroke: #fff;
+    stroke-width: 1
+}
+
+circle[id^="zprison"] {
+    fill: #8E806A;
+    stroke: #fff;
+    stroke-width: 1
 }
 
 .filter_button {
     padding: 20px;
     margin: 0 5px 0 0;
     border: 0 solid;
-    letter-spacing: 1.5px;
-    color: #318ce7;
+    letter-spacing: 1.5px
+}
+
+/* selection buttons */
+
+#zcamp {
+    color: #ff0000
+}
+
+#zdetention {
+    color: #5F7161
+}
+
+#zprison {
+    color: #8E806A
 }
 
 .unfilter_button {
@@ -46,5 +67,33 @@ circle {
     margin: 0 5px 0 0;
     border: 0 solid;
     letter-spacing: 1.5px;
-    color: #318ce7;
+    color: #318ce7
+}
+
+#legend {
+    font-style: italic
+}
+
+#camps {
+    fill:#ff0000;
+    stroke-width:3;
+    stroke:#ff0000
+}
+
+#detention {
+    fill:#5F7161;
+    stroke-width:3;
+    stroke:#5F7161;
+}
+
+#prison {
+    fill:#8E806A;
+    stroke-width:3;
+    stroke:#8E806A
+}
+
+#pre {
+    fill:#000;
+    stroke-width:3;
+    stroke:#000
 }
